@@ -51,7 +51,6 @@ import com.qualcomm.robotcore.util.ElapsedTime;
  * Servo channel:  Servo to open right claw: "right_hand"
  */
 
-//comment
 public class HardwarePushbot {
     /* Public OpMode members. */
     public DcMotor leftDrive = null;
